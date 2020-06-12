@@ -1,0 +1,10 @@
+IMPORTANTTTTT!!!!!!!!!!!
+
+DINO RUN GAME IN PYTHON
+- pygame module requried
+
+
+Developed By Shivang Srivastava
+
+IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT ME
+
